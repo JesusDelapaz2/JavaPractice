@@ -1,4 +1,4 @@
-public class Main
+public class FactorialPractice
 {
     public static int iterativeFactorial(int n)
     {
